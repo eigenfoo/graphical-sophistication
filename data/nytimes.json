@@ -1,0 +1,26 @@
+{
+    "reading_kind": "newspaper",
+    "title": "The New York Times",
+    "url": "https://www.nytimes.com/issue/todayspaper/2023/08/26/todays-new-york-times",
+    "article_count": 75,
+    "graphics": [
+        {
+            "description": "China consumer confidence index",
+            "url": "https://www.nytimes.com/2023/08/25/business/china-economy-confidence.html",
+            "sophisticated": false,
+            "variables": ["China consumer confidence index", "Time"]
+        },
+        {
+            "description": "An image from TEMPO showed nitrogen dioxide over the Eastern Seaboard at 12:14 p.m. on Aug. 2",
+            "url": "https://www.nytimes.com/2023/08/24/climate/air-quality-satellite-nasa-tempo.html",
+            "sophisticated": false,
+            "variables": ["Nitrogen dioxide tropospheric density", "Geography"]
+        },
+        {
+            "description": "U.S. average 30-year fixed-rate mortgage",
+            "url": "https://www.nytimes.com/2023/08/26/business/mortgage-rates-housing-market.html",
+            "sophisticated": false,
+            "variables": ["U.S. average 30-year fixed-rate mortgage", "Time"]
+        }
+    ]
+}
