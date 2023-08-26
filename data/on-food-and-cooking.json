@@ -1,0 +1,40 @@
+
+{
+    "reading_kind": "book:cooking",
+    "title": "On Food and Cooking",
+    "author": "Harold McGee",
+    "isbn": "978-0-684-80001-1",
+    "page_count": 883,
+    "graphics": [
+        {
+            "description": "Coffee Flavor, from the Bean into the Cup",
+            "page_number": 444,
+            "sophisticated": true,
+            "variables": ["Percent coffee solids in brewed cup", "Percent coffee solids extracted from grounds during brew"]
+        },
+        {
+            "description": "Syrup Boiling Points Depend on Sugar Concentration",
+            "page_number": 681,
+            "sophisticated": true,
+            "variables": ["Boiling point", "Percent sugar by weight"]
+        },
+        {
+            "description": "The Composition of Some Popular Candies",
+            "page_number": 687,
+            "sophisticated": true,
+            "variables": ["% Sugars", "Ratio of Sucrose to Glucose"]
+        },
+        {
+            "description": "Tempering chocolate",
+            "page_number": 710,
+            "sophisticated": false,
+            "variables": ["Temperature", "Time"]
+        },
+        {
+            "description": "The spectrum of electromagnetic radiation",
+            "page_number": 782,
+            "sophisticated": false,
+            "variables": ["Frequency"]
+        }
+    ]
+}
