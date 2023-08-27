@@ -1,0 +1,177 @@
+{
+    "reading_kind": "book:tech",
+    "title": "Designing Machine Learning Systems",
+    "author": "Chip Huyen",
+    "isbn": "978-1-098-10796-3",
+    "page_count": 367,
+    "graphics": [
+        {
+            "description": "2020 state of enterprise machine learning",
+            "page_number": 10,
+            "figure_number": "1-3",
+            "sophisticated": false,
+            "variables": ["ML application", "% of respondents"]
+        },
+        {
+            "description": "When processing queries one at a time, higher latency means lower throughput. When processing queries in batches, however, higher latency might also mean higher throughput.",
+            "page_number": 17,
+            "figure_number": "1-4",
+            "sophisticated": true,
+            "variables": ["Number of queries", "Time", "One query at a time / Batched queries"]
+        },
+        {
+            "description": "Data in research versus data in production",
+            "page_number": 19,
+            "figure_number": "1-5",
+            "sophisticated": true,
+            "variables": ["Amount of sleep lost over datasets / Amount of sleep lost over models and algorithms", "PhD / Tesla"]
+        },
+        {
+            "description": "How long it takes for a company to bring a model to production is proportional to how long it has used ML",
+            "page_number": 29,
+            "figure_number": "2-1",
+            "sophisticated": true,
+            "variables": ["How long a company has used ML", "How long it takes for a company to bring a model to production", "Proportion of companies"]
+        },
+        {
+            "description": "The size of datasets used for language models over time",
+            "page_number": 46,
+            "figure_number": "2-8",
+            "sophisticated": false,
+            "variables": ["Number of tokens", "Time"]
+        },
+        {
+            "description": "OLAP and OLTP are outdated terms",
+            "page_number": 69,
+            "figure_number": "3-6",
+            "sophisticated": false,
+            "variables": ["Interest", "Time"]
+        },
+        {
+            "description": "How companies obtain labels",
+            "page_number": 92,
+            "figure_number": "4-3",
+            "sophisticated": true,
+            "variables": ["Type of labels", "Fraction of companies"]
+        },
+        {
+            "description": "Comparison of the performance of a model trained on fully supervised labels and a model trained with programmatic labels",
+            "page_number": 97,
+            "figure_number": "4-5",
+            "sophisticated": true,
+            "variables": ["Mean ROC-AUC", "Number of datapoints"]
+        },
+        {
+            "description": "ML works well in situations where the classes are balanced",
+            "page_number": 103,
+            "figure_number": "4-8",
+            "sophisticated": true,
+            "variables": ["Number of examples", "Class"]
+        },
+        {
+            "description": "ROC curve",
+            "page_number": 108,
+            "figure_number": "4-9",
+            "sophisticated": true,
+            "variables": ["Recall", "Probability of false alarm"]
+        },
+        {
+            "description": "The model trained with focal loss shows reduced loss values compared to the model trained with cross entropy loss",
+            "page_number": 113,
+            "figure_number": "4-11",
+            "sophisticated": true,
+            "variables": ["Loss", "Probability of ground truth class", "Gamma"]
+        },
+        {
+            "description": "A 50% collision rate only causes the log loss to increase less than 0.5%",
+            "page_number": 131,
+            "figure_number": "5-4",
+            "sophisticated": true,
+            "variables": ["Hash size", "Log loss", "% collisions"]
+        },
+        {
+            "description": "How much each feature contributes to a model's single prediction",
+            "page_number": 143,
+            "figure_number": "5-8",
+            "sophisticated": true,
+            "variables": ["Feature", "SHAP value"]
+        },
+        {
+            "description": "How much each feature contributes to a model",
+            "page_number": 143,
+            "figure_number": "5-9",
+            "sophisticated": true,
+            "variables": ["Feature", "SHAP value", "Feature value"]
+        },
+        {
+            "description": "Boosting feature importance",
+            "page_number": 144,
+            "figure_number": "5-10",
+            "sophisticated": true,
+            "variables": ["Importance", "Cumulative importance", "Number of features"]
+        },
+        {
+            "description": "The learning curves of a naive Bayes model and an SVM model",
+            "page_number": 154,
+            "figure_number": "6-1",
+            "sophisticated": true,
+            "variables": ["Score", "Number of training examples", "Training / Cross-validation", "Naive Bayes / SVM"]
+        },
+        {
+            "description": "The calibration curves of different models on a toy task",
+            "page_number": 184,
+            "figure_number": "6-11",
+            "sophisticated": true,
+            "variables": ["Fraction of positives", "Score", "Model"]
+        },
+        {
+            "description": "The distribution of the size of companies where software engineers work",
+            "page_number": 197,
+            "figure_number": "7-3",
+            "sophisticated": true,
+            "variables": ["Size of company", "% of respondents"]
+        },
+        {
+            "description": "Latency improvement by various model compression methods",
+            "page_number": 211,
+            "figure_number": "7-10",
+            "sophisticated": true,
+            "variables": ["Throughput", "Latency", "Model compression method"]
+        },
+        {
+            "description": "Speedup achieved by autoTVM over cuDNN for ResNet-50 on NVIDIA TITAN X",
+            "page_number": 222,
+            "figure_number": "7-15",
+            "sophisticated": true,
+            "variables": ["Relative speedup", "Number of trials", "Optimization method"]
+        },
+        {
+            "description": "Whether a distribution has shifted over time depends on the time scale window specified",
+            "page_number": 246,
+            "figure_number": "8-3",
+            "sophisticated": false,
+            "variables": ["Value", "Time"]
+        },
+        {
+            "description": "Example cumulative and sliding F1 on a given day",
+            "page_number": 247,
+            "figure_number": "8-4",
+            "sophisticated": false,
+            "variables": ["F1", "Time", "Cumulative / Sliding"]
+        },
+        {
+            "description": "Graphs are useful for making sense of numbers, but they aren't sufficient",
+            "page_number": 258,
+            "figure_number": "8-8",
+            "sophisticated": false,
+            "variables": ["Prediction loss", "Time", "Sine / Tan"]
+        },
+        {
+            "description": "Enterprise spending on cloud and data centers",
+            "page_number": 301,
+            "figure_number": "10-4",
+            "sophisticated": false,
+            "variables": ["Worldwide spending", "Year", "Data center hardware and software / Cloud infrastructure services"]
+        }
+    ]
+}
