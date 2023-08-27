@@ -1,0 +1,212 @@
+{
+    "reading_kind": "newspaper",
+    "title": "The Economist",
+    "url": "https://www.economist.com/weeklyedition/2023-08-26",
+    "article_count": 69,
+    "graphics": [
+        {
+            "description": "El Niño's typical impact on rainfall, by season",
+            "url": "https://www.economist.com/briefing/2023/08/24/el-nino-and-global-warming-are-mixing-in-alarming-and-unpredictable-ways",
+            "sophisticated": false,
+            "variables": ["Drier / wetter", "Time", "Map"]
+        },
+        {
+            "description": "Niño 3.4 region, deviation from average sea-surface temperature",
+            "url": "https://www.economist.com/briefing/2023/08/24/el-nino-and-global-warming-are-mixing-in-alarming-and-unpredictable-ways",
+            "sophisticated": false,
+            "variables": ["Deviation from average sea-surface temperature", "Time"]
+        },
+        {
+            "description": "United States, state-school pupils absent for 10% or more of the academic year, % of total",
+            "url": "https://www.economist.com/united-states/2023/08/24/post-covid-american-children-are-still-missing-far-too-much-school",
+            "sophisticated": true,
+            "variables": ["Academic year", "State", "% of total"]
+        },
+        {
+            "description": "United States, change in church attendance by size of congregation, 2015-20, % of total",
+            "url": "https://www.economist.com/united-states/2023/08/24/american-megachurches-are-thriving-by-poaching-flocks",
+            "sophisticated": true,
+            "variables": ["Size of congregation", "Change in church attendance", "% of total"]
+        },
+        {
+            "description": "Corporate tax-haven score, 2021",
+            "url": "https://www.economist.com/the-americas/2023/08/21/a-wave-of-international-rule-making-threatens-caribbean-tax-havens",
+            "sophisticated": false,
+            "variables": ["Corporate tax-haven score", "Map"]
+        },
+        {
+            "description": "US, university language-course enrolments, 2016-20, % change",
+            "url": "https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin",
+            "sophisticated": true,
+            "variables": ["Language", "% change", "Total enrolments"]
+        },
+        {
+            "description": "Opinion polling, August 23rd 2023: The military junta's action in Niger was justified",
+            "url": "https://www.economist.com/middle-east-and-africa/2023/08/24/west-african-views-on-nigers-coup",
+            "sophisticated": true,
+            "variables": ["Country", "% agreeing"]
+        },
+        {
+            "description": "Opinion polling, August 23rd 2023: Which country/institution do you trust most?",
+            "url": "https://www.economist.com/middle-east-and-africa/2023/08/24/west-african-views-on-nigers-coup",
+            "sophisticated": true,
+            "variables": ["Country or institution", "% agreeing", "Country"]
+        },
+        {
+            "description": "Italy, GDP, % change on previous quarter",
+            "url": "https://www.economist.com/europe/2023/08/24/italys-hard-right-government-is-starting-to-look-more-radical",
+            "sophisticated": false,
+            "variables": ["% change", "Time"]
+        },
+        {
+            "description": "Agricultural total factor productivity, 1990 = 100",
+            "url": "https://www.economist.com/britain/2023/08/24/britains-failed-experiment-in-boosting-low-wage-sectors",
+            "sophisticated": false,
+            "variables": ["Agricultural total factor productivity", "Time", "Country"]
+        },
+        {
+            "description": "How the Blitz changed London for the better",
+            "url": "https://www.economist.com/interactive/britain/2023/08/24/how-the-blitz-changed-london-for-the-better",
+            "sophisticated": false,
+            "variables": ["Map", "Bombs", "Building height", "Extent of damage"]
+        },
+        {
+            "description": "Bombing of London during the Blitz v present-day jobs",
+            "url": "https://www.economist.com/interactive/britain/2023/08/24/how-the-blitz-changed-london-for-the-better",
+            "sophisticated": true,
+            "variables": ["Number of workers, 2011", "Bombs per sq km, Oct 1940–Jun 1941"]
+        },
+        {
+            "description": "Global chemical-weapons stockpiles destroyed",
+            "url": "https://www.economist.com/international/2023/08/22/reassessing-barack-obamas-red-line-in-syria",
+            "sophisticated": false,
+            "variables": ["Cumulative total", "Time"]
+        },
+        {
+            "description": "Fortune 500 companies, 2023: Number by decade founded",
+            "url": "https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple",
+            "sophisticated": false,
+            "variables": ["Number", "Time"]
+        },
+        {
+            "description": "Fortune 500 companies, 2023: Average age, years",
+            "url": "https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple",
+            "sophisticated": false,
+            "variables": ["Age", "Time"]
+        },
+        {
+            "description": "Fortune 500 companies, 2023: Average age by industry, years",
+            "url": "https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple",
+            "sophisticated": true,
+            "variables": ["Age", "Industry"]
+        },
+        {
+            "description": "United States, venture-capital exits by type",
+            "url": "https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple",
+            "sophisticated": false,
+            "variables": ["Type"]
+        },
+        {
+            "description": "United States, new businesses formed",
+            "url": "https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple",
+            "sophisticated": false,
+            "variables": ["% of total", "Time"]
+        },
+        {
+            "description": "Ratio of enterprise value to sales, selected chip companies",
+            "url": "https://www.economist.com/business/2023/08/23/arms-public-listing-is-set-to-break-records",
+            "sophisticated": true,
+            "variables": ["Company", "Ratio"]
+        },
+        {
+            "description": "Global initial public offerings, deal value",
+            "url": "https://www.economist.com/business/2023/08/23/arms-public-listing-is-set-to-break-records",
+            "sophisticated": false,
+            "variables": ["Deal value", "United States / Rest of world", "Time"]
+        },
+        {
+            "description": "China, consumer confidence",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue",
+            "sophisticated": false,
+            "variables": ["Consumer confidence", "Time"]
+        },
+        {
+            "description": "China's GDP as % of United States's",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue",
+            "sophisticated": false,
+            "variables": ["GDP", "Time", "Date of forecast"]
+        },
+        {
+            "description": "China, property sector, contribution to GDP growth",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue",
+            "sophisticated": false,
+            "variables": ["Contribution to GDP growth", "Time"]
+        },
+        {
+            "description": "China, value of housing held by households",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue",
+            "sophisticated": false,
+            "variables": ["Value of housing", "Housing assets / Mortgages and loans", "Time"]
+        },
+        {
+            "description": "China, labour force",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/24/chinas-economy-is-in-desperate-need-of-rescue",
+            "sophisticated": false,
+            "variables": ["Labour force", "Time"]
+        },
+        {
+            "description": "Commodity exports to China",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/22/what-chinas-economic-troubles-mean-for-the-world",
+            "sophisticated": true,
+            "variables": ["% of GDP", "Country", "Commodity"]
+        },
+        {
+            "description": "Exposure to China, total exports and Western-owned subsidiaries' revenues",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/22/what-chinas-economic-troubles-mean-for-the-world",
+            "sophisticated": true,
+            "variables": ["% of GDP", "Country", "Export or revenue type"]
+        },
+        {
+            "description": "Share prices",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/20/goldman-sachs-has-a-david-solomon-problem",
+            "sophisticated": false,
+            "variables": ["Share price", "Time", "Company"]
+        },
+        {
+            "description": "United States, GDP, % change on previous quarter, annualised",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/23/americas-astonishing-economic-growth-goes-up-another-gear",
+            "sophisticated": false,
+            "variables": ["% change", "Time", "Forecasting model"]
+        },
+        {
+            "description": "External government debt",
+            "url": "https://www.economist.com/finance-and-economics/2023/08/24/argentina-is-pushing-international-lending-to-its-breaking-point",
+            "sophisticated": true,
+            "variables": ["External government debt", "Country", "Type of creditor"]
+        },
+        {
+            "description": "Electric-car batteries",
+            "url": "https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs",
+            "sophisticated": false,
+            "variables": ["Cost", "Average range", "Time"]
+        },
+        {
+            "description": "Diclofenac sales in India",
+            "url": "https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people",
+            "sophisticated": false,
+            "variables": ["Sales", "Time"]
+        },
+        {
+            "description": "Estimated vulture population",
+            "url": "https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people",
+            "sophisticated": false,
+            "variables": ["Population", "Time"]
+        },
+        {
+            "description": "Human death rates",
+            "url": "https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people",
+            "sophisticated": false,
+            "variables": ["Death rates", "Time", "Suitable or unsuitable for vultures"]
+        }
+    ]
+}
