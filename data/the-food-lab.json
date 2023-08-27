@@ -15,7 +15,7 @@
             "description": "Time to Extract Maximum Flavor and Body versus Degree of Chopping",
             "page_number": 182,
             "sophisticated": true,
-            "variables": ["Time", "Degree Chopped", "Flavor / Body Development"]
+            "variables": ["Time", "Degree chopped", "Flavor development / Body development"]
         },
         {
             "description": "Retained Weight versus Cooling Method",
@@ -27,67 +27,67 @@
             "description": "Braising Temperature versus Time",
             "page_number": 272,
             "sophisticated": false,
-            "variables": ["Temperature", "Time", "Lid On / Off"]
+            "variables": ["Temperature", "Time", "Lid on / Lid off"]
         },
         {
             "description": "Moisture Loss versus Final Cooking Temperature in Beef",
             "page_number": 295,
             "sophisticated": true,
-            "variables": ["Moisture Loss", "Temperature"]
+            "variables": ["Moisture loss", "Temperature"]
         },
         {
             "description": "Weight Loss in Cooked Chicken Breasts",
             "page_number": 359,
-            "sophisticated": true,
-            "variables": ["% Original Weight", "Start / After Soaking / After Cooking", "Brined / Water/ Salted/ Plain"]
+            "sophisticated": false,
+            "variables": ["% original weight", "Time", "Brined / Water/ Salted/ Plain"]
         },
         {
             "description": "Minimum Safe Cooking Time versus Temperature for Chicken",
             "page_number": 361,
             "sophisticated": false,
-            "variables": ["Temperature", "Time Needed to Sterilize"]
+            "variables": ["Temperature", "Time needed to sterilize"]
         },
         {
             "description": "Sausage Weight Loss at 160°F",
             "page_number": 499,
             "sophisticated": false,
-            "variables": ["% Weight Loss", "Resting Time"]
+            "variables": ["% weight loss", "Resting time"]
         },
         {
             "description": "Weight Loss by Percentage of Starting Weight",
             "page_number": 510,
             "sophisticated": true,
-            "variables": ["Weight Loss", "Grilled over High Heat / Grilled over Low Heat / Slow-Cooked then Grilled"]
+            "variables": ["Weight loss", "Cooking method"]
         },
         {
             "description": "Smash Time versus Final Weight",
             "page_number": 551,
-            "sophisticated": true,
-            "variables": ["Final Weight", "Time Smashed"]
+            "sophisticated": false,
+            "variables": ["Final weight", "Time smashed"]
         },
         {
             "description": "Weight Loss in Cooked Turkey Breasts",
             "page_number": 575,
-            "sophisticated": true,
-            "variables": ["% Original Weight", "Start / After Soak / After Cook", "Brine / Water / Plain"]
+            "sophisticated": false,
+            "variables": ["% original weight", "Time", "Brine / Water / Plain"]
         },
         {
             "description": "Percentage Retained Weight versus Searing Order",
             "page_number": 632,
-            "sophisticated": true,
-            "variables": ["% Changein Weight", "Before Cooking / Post Stage-1 Cooking / Post Stage-2 Cooking", "Roasted first / Seared first"]
+            "sophisticated": false,
+            "variables": ["% Change in Weight", "Time", "Roasted first / Seared first"]
         },
         {
             "description": "Meat Consumption by Type",
             "page_number": 641,
             "sophisticated": true,
-            "variables": ["Yearly Per Capita Consumption", "Chicken / Beef / Pork / Lamb"]
+            "variables": ["Yearly per capita consumption", "Chicken / Beef / Pork / Lamb"]
         },
         {
             "description": "Oven Temperature versus Weight Loss in Pork Shoulder",
             "page_number": 651,
             "sophisticated": true,
-            "variables": ["% Moisture Loss", "Oven Temperature"]
+            "variables": ["% moisture loss", "Oven temperature"]
         }
     ]
 }
