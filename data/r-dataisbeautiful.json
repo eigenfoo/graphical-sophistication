@@ -1,0 +1,194 @@
+{
+    "reading_kind": "web",
+    "title": "r/dataisbeautiful",
+    "url": "https://www.reddit.com/r/dataisbeautiful",
+    "page_count": 31,
+    "graphics": [
+        {
+            "description": "AirPods Revenue vs Top Tech Companies",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15z558o/oc_airpods_revenue_vs_top_tech_companies/",
+            "sophisticated": true,
+            "variables": ["Revenue", "Company"]
+        },
+        {
+            "description": "Average daily hours spent playing games, US men ages 15 through 24",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/161ak06/oc_a_big_increase_in_gaming_time_for_young_men/",
+            "sophisticated": false,
+            "variables": ["Hours", "Time"]
+        },
+        {
+            "description": "7 months of online dating, 23M, NYC",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15xsq4v/oc_7_months_of_online_dating_23m_nyc/",
+            "sophisticated": true,
+            "variables": ["Likes Sent", "Hooked up", "Matches", "First date", "2-5 dates", "Slept with", "Situationship / Dated"]
+        },
+        {
+            "description": "25 Best Selling Game Consoles",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/160iogf/oc_25_best_selling_game_consoles/",
+            "sophisticated": true,
+            "variables": ["Game console", "International sales"]
+        },
+        {
+            "description": "Mortgage Rates at a 21-Year High",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15xhlws/oc_mortgage_rates_at_a_21year_high/",
+            "sophisticated": false,
+            "variables": ["Mortgage rate", "Time"]
+        },
+        {
+            "description": "These companies are earning a lot of money on their cash holdings",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/160ef91/oc_these_companies_are_earning_a_lot_of_money_on/",
+            "sophisticated": true,
+            "variables": ["Interest income", "Company"]
+        },
+        {
+            "description": "Dating app data back when I deleted all apps on May",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15xj141/oc_dating_app_data_back_when_i_deleted_all_apps/",
+            "sophisticated": true,
+            "variables": ["Bumble / Tinder", "Left swipes / Right swipes", "Match / No match"]
+        },
+        {
+            "description": "Black Population in the Americas",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/1611ajh/black_population_in_the_americas_oc/",
+            "sophisticated": false,
+            "variables": ["Black population", "Map"]
+        },
+        {
+            "description": "TV shows with most episodes",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/162u5t2/oc_tv_shows_with_most_episodes/",
+            "sophisticated": false,
+            "variables": ["Time"]
+        },
+        {
+            "description": "Notes played on a grand piano in an 8 hour session",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15ysili/oc_notes_played_on_a_grand_piano_in_an_8_hour/",
+            "sophisticated": true,
+            "variables": ["Note", "Count"]
+        },
+        {
+            "description": "The Reduce in Child Mortality for Children under 5 from 1985 to 2020 For All Countries in Africa",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15y5sfo/oc_the_reduce_in_child_mortality_for_children/",
+            "sophisticated": true,
+            "variables": ["Child mortality", "Country", "1985 / 2020"]
+        },
+        {
+            "description": "Job applications across ~10 years period in Life Sciences ",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15wzfh6/oc_job_applications_across_10_years_period_in/",
+            "sophisticated": true,
+            "variables": ["Interview", "Job Offer / Rejected"]
+        },
+        {
+            "description": "US inflation trendlines today are very similar to those in the 70s",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/1624brw/us_inflation_trendlines_today_are_very_similar_to/",
+            "sophisticated": false,
+            "variables": ["% change", "Time"]
+        },
+        {
+            "description": "Berkshire Hathaway total assets have surpassed $1 trillion",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15z2git/oc_berkshire_hathaway_total_assets_have_surpassed/",
+            "sophisticated": false,
+            "variables": ["Total assets", "Time"]
+        },
+        {
+            "description": "Most Subscribed YouTube Artists on YouTube (2023): The Rise of K-Pop and Reggaeton",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15zhsr6/oc_most_subscribed_youtube_artists_on_youtube/",
+            "sophisticated": true,
+            "variables": ["Number of subscribers", "Artist"]
+        },
+        {
+            "description": "World population increase since 1950",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15x974l/world_population_increase_since_1950_oc/",
+            "sophisticated": false,
+            "variables": ["Population growth", "Map"]
+        },
+        {
+            "description": "Every Space Debris Orbiting the Earth",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15yb5rd/oc_every_space_debris_orbiting_the_earth/",
+            "sophisticated": true,
+            "variables": ["Order of debris identification", "Orbital distance of debris", "Country"]
+        },
+        {
+            "description": "My Familiarity with the Popular Music of the past Four Decades",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15xyhdy/my_familiarity_with_the_popular_music_of_the_past/",
+            "sophisticated": false,
+            "variables": ["Haven't heard / Recognise / Clearly known", "Month", "Year"]
+        },
+        {
+            "description": "Sheep Population Density of Each Country in Europe",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15yzi4d/sheep_population_density_of_each_country_in/",
+            "sophisticated": false,
+            "variables": ["Sheep per square kilometre", "Map"]
+        },
+        {
+            "description": "2 Years of Job Hunting for a Family Doctor",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15x965r/oc_2_years_of_job_hunting_for_a_family_doctor/",
+            "sophisticated": true,
+            "variables": ["Applied / Headhunted", "Emails / Phone call / Skype call", "Job offer / Job already filled", "Accepted / Declined", "Still work there / Quit"]
+        },
+        {
+            "description": "Height and weight of NBA players vs WNBA players",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/16014k2/oc_height_and_weight_of_nba_players_vs_wnba/",
+            "sophisticated": true,
+            "variables": ["Weight", "Height", "NBA / WNBA"]
+        },
+        {
+            "description": "NFL Players since 1970 who played at 6'3\" 215 lbs",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/160zikc/oc_nfl_players_since_1970_who_played_at_63_215/",
+            "sophisticated": false,
+            "variables": ["Number of players", "Time", "Position"]
+        },
+        {
+            "description": "Total miles and density of US Interstate network ",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/161uzof/oc_total_miles_and_density_of_us_interstate/",
+            "sophisticated": true,
+            "variables": ["Mileage", "Density", "State"]
+        },
+        {
+            "description": "An interactive map with 7800+ climate offset projects, species distribution, biodiversity layers, climate layers, and economic data",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15ybf2s/oc_an_interactive_map_with_7800_climate_offset/",
+            "sophisticated": false,
+            "variables": ["Climate offset projects", "Species distribution", "Biodiversity layers", "Climate layers", "Economic data", "Map"]
+        },
+        {
+            "description": "The Many Faces of the Mighty Colorado River",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15x9lc4/oc_the_many_faces_of_the_mighty_colorado_river/",
+            "sophisticated": false,
+            "variables": ["Major cities", "Native American lands", "Watershed", "Reservoirs", "Map"]
+        },
+        {
+            "description": "Commercial and critical performance of superhero movies over time",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15zex2i/commercial_and_critical_performance_of_superhero/",
+            "sophisticated": false,
+            "variables": ["Average critic score", "Average inflation-adjusted domestic box office", "Time", "Marvel / DC"]
+        },
+        {
+            "description": "Trend of radioactive level in fishery products more than a decade post Fukushima",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/162szux/oc_genie_back_in_the_bottle_trend_of_radioactive/",
+            "sophisticated": false,
+            "variables": ["Number of cases", "Time"]
+        },
+        {
+            "description": "Halloween Tracker v2.0: Excel used to track trick-or-treaters",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15xj4k7/halloween_tracker_v20_excel_used_to_track/",
+            "sophisticated": false,
+            "variables": ["Number of trick-or-treaters", "Time", "Weather"]
+        },
+        {
+            "description": "India Is The World's Biggest Rice Exporter",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15xeqwh/oc_india_is_the_worlds_biggest_rice_exporter/",
+            "sophisticated": true,
+            "variables": ["Percentage", "Country"]
+        },
+        {
+            "description": "Hourly July temperatures across the globe compared to normal for 1981-2020",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/160yexy/hourly_july_temperatures_across_the_globe/",
+            "sophisticated": false,
+            "variables": ["Temperature", "Map"]
+        },
+        {
+            "description": "India is now the world's fourth largest equity market, if one excludes Hong Kong",
+            "url": "https://www.reddit.com/r/dataisbeautiful/comments/15z0gsf/oc_india_is_now_the_worlds_fourth_largest_equity/",
+            "sophisticated": false,
+            "variables": ["Market capitalization", "Time"]
+        },
+    ]
+}
